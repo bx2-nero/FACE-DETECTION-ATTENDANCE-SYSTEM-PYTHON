@@ -1,0 +1,13 @@
+Libraries to install-
+
+pip install opencv-python
+pip install pandas
+pip install pillow
+pip install opencv-contrib-python  
+
+Delete the "text"  files under these folders before running the programme.
+-TrainingImage
+-TrainingImageLabel
+-ImagesUnknown
+
+
